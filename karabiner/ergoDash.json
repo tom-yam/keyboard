@@ -172,9 +172,92 @@
             "modifiers": ["left_shift"]
             }
           ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {"key_code": "f"},
+              {"key_code": "r"}
+            ],
+            "modifiers": { "mandatory": [ "alt" ] }
+            ,
+            "simultaneous_options": {
+              "key_down_order": "inverse"
+            }
+          },
+          "to": [
+            {
+            "key_code": "r",
+            "modifiers": ["alt"]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {"key_code": "f"},
+              {"key_code": "r"}
+            ],
+            "modifiers": { "mandatory": [ "command" ] }
+            ,
+            "simultaneous_options": {
+              "key_down_order": "inverse"
+            }
+          },
+          "to": [
+            {
+            "key_code": "r",
+            "modifiers": ["command"]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {"key_code": "f"},
+              {"key_code": "r"}
+            ],
+            "modifiers": { "mandatory": [ "control" ],
+                "optional":["option"]
+           }
+            ,
+            "simultaneous_options": {
+              "key_down_order": "inverse"
+            }
+          },
+          "to": [
+            {
+            "key_code": "r",
+            "modifiers": ["control","option"]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {"key_code": "f"},
+              {"key_code": "r"}
+            ],
+            "modifiers": { "mandatory": [ "control" ] }
+            ,
+            "simultaneous_options": {
+              "key_down_order": "inverse"
+            }
+          },
+          "to": [
+            {
+            "key_code": "r",
+            "modifiers": ["control"]
+            }
+          ]
         }
       ]
     }
   ]
 }
+
 
