@@ -12,7 +12,7 @@
               {"key_code": "r"}
             ],
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -29,7 +29,7 @@
             "modifiers": { "mandatory": [ "left_shift" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -49,7 +49,7 @@
             "modifiers": { "mandatory": [ "right_shift" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -67,7 +67,7 @@
               {"key_code": "t"}
             ],
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -86,7 +86,7 @@
             "modifiers": { "mandatory": [ "left_shift" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -106,7 +106,7 @@
             "modifiers": { "mandatory": [ "right_shift" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -124,7 +124,7 @@
               {"key_code": "t"}
             ],
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -143,7 +143,7 @@
             "modifiers": { "mandatory": [ "right_shift" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -163,7 +163,7 @@
             "modifiers": { "mandatory": [ "left_shift" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -183,7 +183,7 @@
             "modifiers": { "mandatory": [ "alt" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -203,7 +203,7 @@
             "modifiers": { "mandatory": [ "command" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -225,7 +225,7 @@
            }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
@@ -245,7 +245,7 @@
             "modifiers": { "mandatory": [ "control" ] }
             ,
             "simultaneous_options": {
-              "key_down_order": "inverse"
+              "key_down_order": "intensive"
             }
           },
           "to": [
